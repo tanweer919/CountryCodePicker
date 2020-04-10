@@ -165,7 +165,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+673",
   },
   {
-    "name": "България",
+    "name": "Bulgaria",
     "code": "BG",
     "dial_code": "+359",
   },
@@ -220,7 +220,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+56",
   },
   {
-    "name": "中国",
+    "name": "China",
     "code": "CN",
     "dial_code": "+86",
   },
@@ -280,7 +280,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+53",
   },
   {
-    "name": "Κύπρος",
+    "name": "Cyprus",
     "code": "CY",
     "dial_code": "+357",
   },
@@ -315,7 +315,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+593",
   },
   {
-    "name": "مصر‎",
+    "name": "Egypt",
     "code": "EG",
     "dial_code": "+20",
   },
@@ -330,7 +330,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+240",
   },
   {
-    "name": "ኤርትራ",
+    "name": "Eritrea",
     "code": "ER",
     "dial_code": "+291",
   },
@@ -340,7 +340,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+372",
   },
   {
-    "name": "ኢትዮጵያ",
+    "name": "Ethiopia",
     "code": "ET",
     "dial_code": "+251",
   },
@@ -395,7 +395,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+220",
   },
   {
-    "name": "საქართველო",
+    "name": "Georgia",
     "code": "GE",
     "dial_code": "+995",
   },
@@ -485,7 +485,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+504",
   },
   {
-    "name": "香港",
+    "name": "Hong Kong",
     "code": "HK",
     "dial_code": "+852",
   },
@@ -500,7 +500,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+354",
   },
   {
-    "name": "भारत",
+    "name": "India",
     "code": "IN",
     "dial_code": "+91",
   },
