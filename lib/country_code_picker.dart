@@ -123,8 +123,10 @@ class CountryCodePickerState extends State<CountryCodePicker> {
         child: widget.builder(selectedItem),
       );
     else {
-      _widget = FlatButton(
-        padding: widget.padding,
+      _widget = TextButton(
+        style: TextButton.styleFrom(
+          padding: widget.padding,
+        ),
         onPressed: widget.enabled ? showCountryCodePickerDialog : null,
         child: Flex(
           direction: Axis.horizontal,
